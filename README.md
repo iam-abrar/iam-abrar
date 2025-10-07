@@ -7,6 +7,7 @@ I love working at the intersection of domains, exploring how intelligent systems
 
 
 💡 What I work on:
+
   Machine Learning & Research: model development, optimization, and experimental analysis for supervised, unsupervised, and multimodal learning tasks
   
   Computer Vision & Deep Learning: segmentation, object and keypoint detection, pose estimation etc.
